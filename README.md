@@ -40,6 +40,7 @@ Investigate root causes: holidays, markdowns, economic indicators.
 Clean anomalies to improve model accuracy.
 
 3. ⏱️ Time-Based Anomaly Detection
+
 Visualize seasonal trends and holiday effects.
 
 Apply rolling statistics and exponential smoothing for anomaly isolation.
@@ -47,6 +48,7 @@ Apply rolling statistics and exponential smoothing for anomaly isolation.
 Highlight deviations for targeted interventions.
 
 6. 🧹 Data Preprocessing & Feature Engineering
+
 Handle missing values, especially in markdown data.
 
 Create features: store type, regional factors, lag variables.
@@ -54,6 +56,7 @@ Create features: store type, regional factors, lag variables.
 Normalize external metrics like CPI, fuel prices.
 
 8. 👤 Customer & Store Segmentation
+
 Apply K-Means clustering for store and department segmentation.
 
 Evaluate using Silhouette Score for segment quality.
@@ -65,6 +68,7 @@ Stores: Premium, Value-Oriented, Budget-Friendly, Compact.
 Departments: Luxury, Premium, Elite, Grand Outlets.
 
 5. 🛒 Market Basket Analysis
+
 Use Apriori Algorithm for association rule mining.
 
 Infer product associations at the department level.
@@ -72,6 +76,7 @@ Infer product associations at the department level.
 Develop cross-selling and bundling strategies.
 
 7. 📈 Demand Forecasting
+
 Build short-term forecasts using SARIMA, Holt-Winters.
 
 Long-term forecasts with Random Forest for strategic planning.
